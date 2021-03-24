@@ -1,0 +1,20 @@
+name : Empire
+author : gourouMC
+version : 0.1
+main : fr.gourou.Main
+commands:
+ test:
+ report:
+ spawn:
+ ping:
+ removeSpawn:
+ watchspawn:
+ addspawn:
+ mute:
+ unmute:
+ addbandword:
+ removebanword:
+ watchbanword:
+ banword:
+ reporttest:
+ vanish:
